@@ -1,0 +1,22 @@
+                               Informe del Socio Dolger Campos
+
+
+
+
+Nombre de Instalacion:           Los pilates
+Fecha:                           2015-11-15
+Hora Inicio:                     1:30pm
+Hora Final:                      3:30pm
+
+
+  Articulos de la Reservacion
+
+Articulo:              Red
+Categoria:             Tennis
+Cantidad:              3
+Costo:                 1200
+
+Articulo:              Raqueta
+Categoria:             Grande
+Cantidad:              2
+Costo:                 1200
